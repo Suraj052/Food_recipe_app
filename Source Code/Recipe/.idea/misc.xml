@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/PROJECTS/Android/Recipe/app/src/main/res/layout/activity_detail.xml" value="0.25" />
+        <entry key="..\:/PROJECTS/Android/Recipe/app/src/main/res/layout/activity_home.xml" value="0.25" />
+        <entry key="..\:/PROJECTS/Android/Recipe/app/src/main/res/layout/activity_splash.xml" value="0.25" />
+        <entry key="..\:/PROJECTS/Android/Recipe/app/src/main/res/layout/item_rv_main_category.xml" value="0.25" />
+        <entry key="..\:/PROJECTS/Android/Recipe/app/src/main/res/layout/item_rv_sub_category.xml" value="0.25" />
+        <entry key="..\:/Study/PROJECTS/ANDROID APP/app/src/main/res/drawable/bg_search.xml" value="0.1235" />
+        <entry key="..\:/Study/PROJECTS/ANDROID APP/app/src/main/res/drawable/btn_bg.xml" value="0.1995" />
+        <entry key="..\:/Study/PROJECTS/ANDROID APP/app/src/main/res/layout/activity_home.xml" value="0.23550724637681159" />
+        <entry key="..\:/Study/PROJECTS/ANDROID APP/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Study/PROJECTS/ANDROID APP/app/src/main/res/layout/activity_splash.xml" value="0.12360688956433637" />
+        <entry key="..\:/Study/PROJECTS/ANDROID APP/app/src/main/res/layout/item_rv_main_category.xml" value="0.23550724637681159" />
+        <entry key="..\:/Study/PROJECTS/ANDROID APP/app/src/main/res/layout/item_rv_sub_category.xml" value="0.23550724637681159" />
+        <entry key="..\:/Study/PROJECTS/Android/ANDROID APP/app/src/main/res/drawable/2.xml" value="0.221" />
+        <entry key="..\:/Study/PROJECTS/Android/ANDROID APP/app/src/main/res/drawable/btn_bg.xml" value="0.221" />
+        <entry key="..\:/Study/PROJECTS/Android/ANDROID APP/app/src/main/res/drawable/btn_bg2.xml" value="0.221" />
+        <entry key="..\:/Study/PROJECTS/Android/ANDROID APP/app/src/main/res/drawable/btn_bg3.xml" value="0.221" />
+        <entry key="..\:/Study/PROJECTS/Android/ANDROID APP/app/src/main/res/drawable/category.xml" value="0.221" />
+        <entry key="..\:/Study/PROJECTS/Android/ANDROID APP/app/src/main/res/drawable/category2.xml" value="0.221" />
+        <entry key="..\:/Study/PROJECTS/Android/ANDROID APP/app/src/main/res/drawable/gradient.xml" value="0.221" />
+        <entry key="..\:/Study/PROJECTS/Android/ANDROID APP/app/src/main/res/drawable/ic_back.xml" value="0.221" />
+        <entry key="..\:/Study/PROJECTS/Android/ANDROID APP/app/src/main/res/layout/activity_detail.xml" value="0.25" />
+        <entry key="..\:/Study/PROJECTS/Android/ANDROID APP/app/src/main/res/layout/activity_home.xml" value="0.25" />
+        <entry key="..\:/Study/PROJECTS/Android/ANDROID APP/app/src/main/res/layout/activity_splash.xml" value="0.25" />
+        <entry key="..\:/Study/PROJECTS/Android/ANDROID APP/app/src/main/res/layout/item_rv_main_category.xml" value="0.4" />
+        <entry key="..\:/Study/PROJECTS/Android/ANDROID APP/app/src/main/res/layout/item_rv_sub_category.xml" value="0.1671195652173913" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
