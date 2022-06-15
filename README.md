@@ -6,9 +6,7 @@ Some additional features of each recipe:
 
 
 1.Incredients required
-
 2.Instructions to cook the food
-
 3.Some additional tips to make it more tasty 
 
 #Kotlin
